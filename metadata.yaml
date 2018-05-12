@@ -1,0 +1,36 @@
+_repo: The-Washer-of-the-FordLegendary-moralities-and-barbaric-tales_43395
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43395-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sharp, William
+    alias: Macleod, Fiona
+    birthdate: 1855
+    deathdate: 1905
+    gutenberg_agent_id: '337'
+    url: http://www.gutenberg.org/2009/agents/337
+    wikipedia: http://en.wikipedia.org/wiki/William_Sharp_%28writer%29
+description: ''
+gutenberg_issued: '2013-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Celtic -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Scotland -- Social life and customs -- Fiction'
+tableOfContents: 'Prologue -- The washer of the ford -- St. Bride of the Isles --
+  The Fisher of Men -- The last supper -- The dark nameless one -- The three marvels
+  of Hy: The festival of the birds. The Sabbath of the fishes and the flies. The Moon-Child
+  -- The Annir-Choille -- The shadow-seers: The sight. The dark hour of Fergus. The
+  white fever. The smoothing of the hand -- Seanachas -- The song of the sword --
+  The flight of the Culdees -- Mircath -- The laughter of Scathach the Queen -- Ula
+  and Urla.'
+title: 'The Washer of the Ford: Legendary moralities and barbaric tales'
+url: http://www.gutenberg.org/ebooks/43395
